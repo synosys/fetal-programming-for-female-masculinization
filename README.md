@@ -1,7 +1,7 @@
 # Data Visualization and Exploration Portal for *Female Masculinization as an Adaptive Trait in Free-Living House Mice*
 
 ## Description
-An interactive data visualization website developed by Isin Kosemen and Dr. Esther Carlitz to explore key figures and analyses from the long-term ecological study *Female Masculinization as an Adaptive Trait in Free-Living House Mice*.
+An interactive data visualization website developed by Dr. Esther Carlitz and Isin Kosemen to explore key figures and analyses from the long-term ecological study *Female Masculinization as an Adaptive Trait in Free-Living House Mice*.
 
 This project visualizes **13 years** of morphological, hormonal, genetic, and life-history data from a wild house mouse (*Mus musculus domesticus*) population in Switzerland.
 
