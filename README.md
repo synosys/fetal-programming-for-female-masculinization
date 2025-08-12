@@ -25,7 +25,7 @@ To provide researchers, students, and the public with an accessible, dynamic pla
 - **GitHub Pages** for hosting  
 
 ## Live Website
-[(https://synosys.github.io/fetal-programming-for-female-masculinization/)]  
+https://synosys.github.io/fetal-programming-for-female-masculinization/
 
 ## Reference
 Paper: [Insert DOI or Link]
