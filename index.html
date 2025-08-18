@@ -4,10 +4,24 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Fetal programming for female masculinization</title>
-    <script type="module" crossorigin src="/fetal-programming-for-female-masculinization/assets/index-CDSq5YIU.js"></script>
-    <link rel="stylesheet" crossorigin href="/fetal-programming-for-female-masculinization/assets/index-RH5WMvb4.css">
+    <script type="module" crossorigin src="/fetal-programming-for-female-masculinization/assets/index-Bgls5x1K.js"></script>
+    <link rel="stylesheet" crossorigin href="/fetal-programming-for-female-masculinization/assets/index-CSw5t9FM.css">
   </head>
   <body>
     <div id="root"></div>
+    <script>
+      (function (l) {
+        // If URL looks like '/?/figures_print', restore to '/figures_print'
+        if (l.search.startsWith('?/') || l.search.startsWith('/?/' )) {
+          var decoded = l.search.slice(l.search.indexOf('?/') + 1)
+            .split('&').map(s => s.replace(/~and~/g, '&')).join('?');
+          var parts = decoded.split('?');
+          var path = parts.shift();
+          var qs = parts.length ? '?' + parts.join('?') : '';
+          var newUrl = l.pathname.replace(/\/$/, '') + path + qs + l.hash;
+          history.replaceState(null, '', newUrl);
+        }
+      })(window.location);
+    </script>    
   </body>
 </html>
