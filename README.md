@@ -28,5 +28,5 @@ To provide researchers, students, and the public with an accessible, dynamic pla
 https://synosys.github.io/fetal-programming-for-female-masculinization/
 
 ## Reference
-Paper: [https://www.researchsquare.com/article/rs-7435085/v1]
+Paper: https://www.researchsquare.com/article/rs-7435085/v1
 
